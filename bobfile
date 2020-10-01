@@ -1,0 +1,6 @@
+packaging: jar
+version: 0.1.0
+
+build
+    echo [${PROJECT_NAME}] Building
+    run-target -i clean build
