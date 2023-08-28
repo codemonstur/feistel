@@ -1,4 +1,9 @@
 include https://raw.githubusercontent.com/codemonstur/bobfiles/master/foss-lib-github-maven
 
-packaging: jar
+vendor: com.github.codemonstur
+name: feistel
 version: 0.1.0
+description: Basic framework for creating a feistel network
+packaging: jar
+license:
+  name: MIT
